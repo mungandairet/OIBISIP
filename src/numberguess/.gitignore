@@ -1,0 +1,12 @@
+# Compiled Java classes
+*.class
+numberguess/
+
+#IDE
+.vscode/
+.idea/
+*.iml
+
+#OS
+.DS_Store
+Thumbs.db
